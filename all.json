@@ -1,0 +1,123 @@
+{
+  "statistical_data": {
+    "friends_num": 6,
+    "active_num": 5,
+    "error_num": 1,
+    "article_num": 16,
+    "last_updated_time": "2025-08-30 02:00:24"
+  },
+  "article_data": [
+    {
+      "title": "具身十日谈：VLA 为什么需要 VLM",
+      "created": "2025-08-22 08:00",
+      "link": "https://axi404.top/blog/embodied-talk-2",
+      "author": "Axi's Blog",
+      "avatar": "https://axi404.top/avatar/avatar.png"
+    },
+    {
+      "title": "傻瓜也可以部署的 RustDesk 教程",
+      "created": "2025-08-20 08:00",
+      "link": "https://axi404.top/blog/sealos-rustdesk",
+      "author": "Axi's Blog",
+      "avatar": "https://axi404.top/avatar/avatar.png"
+    },
+    {
+      "title": "InternManip 踩坑记录",
+      "created": "2025-08-18 08:00",
+      "link": "https://axi404.top/blog/internmanip-code",
+      "author": "Axi's Blog",
+      "avatar": "https://axi404.top/avatar/avatar.png"
+    },
+    {
+      "title": "如何彻底解决 Cursor Remote-SSH Server 下载问题",
+      "created": "2025-08-17 09:02",
+      "link": "https://arthals.ink/blog/cursor-remote-ssh-solution",
+      "author": "Arthals' ink",
+      "avatar": "https://cdn.arthals.ink/Arthals.png"
+    },
+    {
+      "title": "Isaac Sim 一百讲（6）：Collision 进阶",
+      "created": "2025-08-17 08:00",
+      "link": "https://axi404.top/blog/isaac-6",
+      "author": "Axi's Blog",
+      "avatar": "https://axi404.top/avatar/avatar.png"
+    },
+    {
+      "title": "雀魂 MajsoulMax / Akagi / MajsoulCopilot / MajsoulHelper 使用教程",
+      "created": "2025-07-17 23:03",
+      "link": "https://arthals.ink/blog/majsoul",
+      "author": "Arthals' ink",
+      "avatar": "https://cdn.arthals.ink/Arthals.png"
+    },
+    {
+      "title": "燕园未竟书",
+      "created": "2025-07-03 10:58",
+      "link": "https://www.lyt0112.com/blog/this_is_pku-zh",
+      "author": "Yutong's Site",
+      "avatar": "https://www.lyt0112.com/favicon/favicon.ico"
+    },
+    {
+      "title": "An Unfinished Story",
+      "created": "2025-07-03 10:58",
+      "link": "https://www.lyt0112.com/blog/this_is_pku-en",
+      "author": "Yutong's Site",
+      "avatar": "https://www.lyt0112.com/favicon/favicon.ico"
+    },
+    {
+      "title": "Rubik's Cube Blindfold Method and Improvement",
+      "created": "2025-06-30 08:13",
+      "link": "https://www.lyt0112.com/blog/blindfold-zh",
+      "author": "Yutong's Site",
+      "avatar": "https://www.lyt0112.com/favicon/favicon.ico"
+    },
+    {
+      "title": "Course Review for PKU Students",
+      "created": "2025-06-22 20:17",
+      "link": "https://www.lyt0112.com/blog/course_review-zh",
+      "author": "Yutong's Site",
+      "avatar": "https://www.lyt0112.com/favicon/favicon.ico"
+    },
+    {
+      "title": "F1 车队汇总",
+      "created": "2025-06-22 08:00",
+      "link": "https://cworld0.com/blog/f1-teams-2025",
+      "author": "CWorld Site",
+      "avatar": "https://cravatar.cn/avatar/1ffe42aa45a6b1444a786b1f32dfa8aa?s=200"
+    },
+    {
+      "title": "Windows 多余输入法删除",
+      "created": "2025-06-17 08:00",
+      "link": "https://cworld0.com/blog/windows-input-method",
+      "author": "CWorld Site",
+      "avatar": "https://cravatar.cn/avatar/1ffe42aa45a6b1444a786b1f32dfa8aa?s=200"
+    },
+    {
+      "title": "双拼真的有那么难吗",
+      "created": "2025-04-30 08:00",
+      "link": "https://cworld0.com/blog/shuangpin",
+      "author": "CWorld Site",
+      "avatar": "https://cravatar.cn/avatar/1ffe42aa45a6b1444a786b1f32dfa8aa?s=200"
+    },
+    {
+      "title": "策略 II",
+      "created": "2025-04-18 03:34",
+      "link": "https://arthals.ink/blog/policy-ii",
+      "author": "Arthals' ink",
+      "avatar": "https://cdn.arthals.ink/Arthals.png"
+    },
+    {
+      "title": "策略 I",
+      "created": "2025-04-16 06:38",
+      "link": "https://arthals.ink/blog/policy-i",
+      "author": "Arthals' ink",
+      "avatar": "https://cdn.arthals.ink/Arthals.png"
+    },
+    {
+      "title": "业余无线电B证不完全指南",
+      "created": "2025-04-11 08:00",
+      "link": "https://cworld0.com/blog/amateur-radio-b",
+      "author": "CWorld Site",
+      "avatar": "https://cravatar.cn/avatar/1ffe42aa45a6b1444a786b1f32dfa8aa?s=200"
+    }
+  ]
+}
